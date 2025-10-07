@@ -1,3 +1,9 @@
+# Pesquisa — Fork e Fluxos de Versionamento
+
+**Autores:** Sávio Luiz, Taiane Silva
+**Turma:** 2º ano do Ensino Médio
+
+**Texto (5–8 linhas):**  
 Fork é uma cópia de um repositório para a sua conta. Serve para colaborar sem mexer no original. Exemplo: você faz fork de um projeto open source para adicionar uma melhoria.
 
 A diferença entre fork, clone e branch é:
@@ -11,5 +17,3 @@ Git Flow - É mais complexo, com branches de release, develop, hotfix (muito bom
 Trunk-Based Development - todos trabalham direto na branch principal, com commits curtos e integrações constantes (muito bom para equipes que precisam de agilidade).
 
 Um Pull Request é um pedido para juntar suas mudanças ao repositório original. É importante porque permite revisão do código antes de integrar.
-
-- Sávio Luiz e Taiane Silva
